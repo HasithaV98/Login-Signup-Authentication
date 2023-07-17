@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011078734760",
+    "project_id": "login-signup-authenticat-601fa",
+    "storage_bucket": "login-signup-authenticat-601fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011078734760:android:eac5470317ca21ae78b39d",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011078734760-ul7c5re1mffoi1qideoobkmp3ii9jc1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTHDTJaDYrgLWQPWDZ7_aWgHBYix6iyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011078734760-ul7c5re1mffoi1qideoobkmp3ii9jc1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
